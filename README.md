@@ -12,3 +12,6 @@ This program will take a string via user input and convert as followed
 ß -> ss
 
 And then return the converted string
+
+## Euclidean_algorithm.asm
+Will take two integers as input and finds the greatest common divisor.
