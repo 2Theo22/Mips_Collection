@@ -18,3 +18,6 @@ Will take two integers as input and finds the greatest common divisor.
 
 ## Hypotenuse.asm 
 Will take a and b via user input and calculate a² + b² = c².
+
+## Even_Sum_Calculator
+This program will take a user input and then create the sum of all even numbers within the given number.
